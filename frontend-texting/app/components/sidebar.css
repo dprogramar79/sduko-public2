@@ -1,0 +1,17 @@
+.modal.right .modal-dialog-slideout {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 0;
+    width: 300px;
+    height: 100%;
+  }
+  .modal.right .modal-content {
+    height: 100%;
+    overflow-y: auto;
+  }
+  .close-menu-icon {
+    float: right;
+    cursor: pointer;
+  }
+  

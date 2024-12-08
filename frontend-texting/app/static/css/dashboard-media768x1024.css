@@ -1,0 +1,688 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .credit-coins ul {
+        padding: 20px 30px
+    }
+    .credit-ads-title {
+        padding: 15px 30px;
+        font-size: 18px
+    }
+    .col-md-6.col-sm-12.ads-post-first-section {
+        max-width: 40%;
+        -ms-flex: 0 0 40%;
+        flex: 0 0 40%
+    }
+    .col-md-6.col-sm-12.post-right-panels {
+        max-width: 60%;
+        -ms-flex: 0 0 60%;
+        flex: 0 0 60%
+    }
+    .img-upload-grid {
+        height: 184px
+    }
+    .up-top-content h4 {
+        font-weight: 600
+    }
+    .up-top-content h6 {
+        font-size: 12px
+    }
+    .col-md-2.whatCol {
+        max-width: 20%;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%
+    }
+    .post-ads-section {
+        padding: 2rem 0
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+    .popup-btns-red span,
+    .popup-btns-blue span {
+        font-size: 16px;
+        letter-spacing: 0
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .pdheadblock {
+        justify-content: center
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .login-panel {
+        margin: 30px 0
+    }
+    .tp-prem-left-img img {
+        height: 35px
+    }
+    .rich-the-top {
+        right: -55px;
+        width: 69px
+    }
+    .credit-coins .blue-g-btn {
+        padding: 14px 22px;
+        border-radius: 7px
+    }
+    .credit-coins ul li .current-redit {
+        font-size: 14px
+    }
+    .ads-grapsh-panel ul {
+        padding: 30px
+    }
+    .profile-top-de h4 {
+        font-size: 20px
+    }
+    .profile-top-de a {
+        font-size: 11px
+    }
+    .profile-top-de {
+        padding: 15px
+    }
+    .de-profile p {
+        font-size: 11px;
+        line-height: 15px;
+        margin-bottom: 8px
+    }
+    .de-profile h6 {
+        margin: 15px 0
+    }
+    .left-sidebar-panel {
+        padding-top: 22px
+    }
+    .services-items {
+        width: 29%
+    }
+    .sidebar-menu li a {
+        padding: 10px 18px
+    }
+    .dashboard-row {
+        padding-top: 0;
+        padding-bottom: 30px
+    }
+    .sidebar-menu li.active a {
+        background: #c11768 !important
+    }
+    .sidebar-menu li.active a span {
+        color: #fff !important
+    }
+    .left-sidebar-panel {
+        width: 100%;
+        padding: 0 12px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center
+    }
+    .sidebar-menu li.active a::before,
+    .sidebar-menu li.active a::after {
+        display: none
+    }
+    .left-sidebar-panel.boder20 {
+        border-radius: 0 !important;
+        padding: 0;
+        background: #fff
+    }
+    .sidebar-menu {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 0 20px;
+        padding: 0;
+        justify-content: space-between;
+        width: 100%
+    }
+    .sidebar-menu li {
+        padding: 0;
+        width: calc(20% - 4px)
+    }
+    .sidebar-menu li a {
+        padding: 12px 12px 14px;
+        background: #dee2ee;
+        width: 100%;
+        display: block;
+        border-radius: 5px;
+        text-align: center
+    }
+    .right-sidebar-panel {
+        width: 100%;
+        padding-left: 0
+    }
+    .alert-right-panel p {
+        font-size: 13px;
+        line-height: 15px
+    }
+    .de-profile h6 {
+        display: none
+    }
+    .ads-grapsh-panel ul li {
+        width: 33.33%
+    }
+    .credit-ads-title {
+        font-size: 18px;
+        padding: 10px 20px
+    }
+    .credit-coins ul {
+        padding: 20px
+    }
+    .credit-coins .blue-g-btn {
+        padding: 12px 15px
+    }
+    .ads-grapsh-panel ul li:first-child {
+        display: none
+    }
+    .sidebar-menu li a i {
+        display: none
+    }
+    .de-profile-items.boder20.relative {
+        border-radius: 0 !important
+    }
+    .profile-top-de a {
+        font-size: 10px;
+        white-space: nowrap;
+        width: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis
+    }
+    .profile-top-de {
+        padding: 0;
+        position: static
+    }
+    .profile-top-de h4,
+    .profile-top-de a {
+        color: #000 !important
+    }
+    .boder15 {
+        border-radius: 8px !important
+    }
+    .boder20 {
+        border-radius: 15px !important
+    }
+    .de-profile-items img {
+        border-radius: 15px;
+        margin-bottom: 15px
+    }
+    .myadd-tabs li a {
+        padding: 12px 55px
+    }
+    .ativeads-cunt {
+        min-width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px
+    }
+    .item-title a {
+        font-size: 16px
+    }
+    .item-card .item-image-top {
+        width: 120px;
+        min-width: 120px;
+        height: 140px;
+        min-height: 140px;
+        margin-right: 20px
+    }
+    .item-card .item-container {
+        padding: 0
+    }
+    .item-card {
+        padding: 20px
+    }
+    .item-title {
+        padding-top: 0;
+        margin-bottom: 10px
+    }
+    .plan-listing-with-img h6 {
+        font-size: 14px
+    }
+    .plan-listing-with-img h3 {
+        font-size: 18px
+    }
+    .free-ad-title-row img {
+        height: 24px
+    }
+    .free-ad-title-row span,
+    .order-panel,
+    .order-panel span {
+        font-size: 16px
+    }
+    .free-ad-title-row span.cart-counter {
+        min-width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 13px
+    }
+    .top-premium-table-img {
+        height: 30px
+    }
+    .premium-Ad-right h5 {
+        font-size: 15px
+    }
+    .total-prices {
+        font-size: 23px;
+        padding: 25px 0
+    }
+    .cls-right {
+        height: 117px
+    }
+    .apply-btn {
+        height: 40px
+    }
+    .pink-g-btn.proceed-to-pay-btn {
+        padding: 22px 44px;
+        font-size: 16px
+    }
+    .back-to-prev img {
+        height: 68px
+    }
+    .email-help-box h4 {
+        font-size: 20px
+    }
+    .email-help-box p {
+        font-size: 14px
+    }
+    .email-help-box p a {
+        padding: 3px 9px 6px
+    }
+    .login-right-panle {
+        padding: 0 16px
+    }
+    .login-right-panle .pink-color {
+        font-size: 25px;
+        margin-bottom: 15px
+    }
+    .login-left-panle h2 {
+        font-size: 24px
+    }
+    .login-left-panle h4 {
+        font-size: 15px
+    }
+    .login-info p {
+        margin-bottom: 5px
+    }
+    .txtbxm p {
+        margin: 16px 18px 40px
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .dropdown-menu-dashboard {
+        margin-top: 4px;
+        min-width: 166px
+    }
+    .pr-or-su-he {
+        font-size: 14px
+    }
+    .payfrm-opt {
+        border: 0;
+        padding: 0
+    }
+    .img-btn img {
+        height: 16px
+    }
+}
+
+@media screen and (max-width: 812px) {
+    .popup-btn-row.d-flex.justify-content-center {
+        display: block !important
+    }
+    .popup-body-content {
+        padding: 40px
+    }
+    .popup-body-content p {
+        font-size: 14px;
+        line-height: 20px
+    }
+    .signup-btn {
+        padding: 8px 17px;
+        font-size: 12px
+    }
+    .logingpd {
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+    .my-search-form {
+        display: block
+    }
+    .login-left-panle {
+        padding-right: 15px
+    }
+    .captcha-row {
+        margin: 0 auto
+    }
+    .login-left-panle h2 {
+        font-size: 16px
+    }
+    .login-left-panle h4 {
+        font-size: 12px
+    }
+    .login-info {
+        margin-top: 20px;
+        padding-top: 15px
+    }
+    .popup-btns-red,
+    .popup-btns-blue {
+        padding: 12px 20px;
+        margin: 8px 0 0
+    }
+    .popup-body-content ul li,
+    .pera-none p,
+    .popup-btns-red span,
+    .popup-btns-blue span {
+        font-size: 13px
+    }
+    .common-popup .modal-header span {
+        font-size: 18px;
+        line-height: 18px;
+        display: block
+    }
+    .set-on-mobiles {
+        flex-wrap: nowrap !important;
+        align-content: center;
+        justify-content: space-between
+    }
+    .set-on-mobiles .col-md-6 {
+        width: auto
+    }
+    .row.mt-5.mb-5.mobile-topsp {
+        margin-top: 15px !important
+    }
+    .item-card .item-image-top {
+        width: 100px;
+        min-width: 100px;
+        height: 120px;
+        min-height: 120px
+    }
+    .ads-my-row {
+        display: block;
+        margin-top: 20px
+    }
+    .cat-items span,
+    .email-publish,
+    .email-publish span,
+    .edit-delete-btn a,
+    .edit-delete-btn a span {
+        font-size: 13px
+    }
+    .adsproceed-topay {
+        width: auto;
+        text-align: left;
+        margin-top: 20px
+    }
+    .modal-title {
+        display: flex;
+        align-items: center
+    }
+    .modal-title img {
+        height: 25px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .password-panel .contineu-btn-col .pink-g-btn {
+        line-height: normal
+    }
+    .col-md-2.whatCol {
+        max-width: 30%;
+        -ms-flex: 0 0 30%;
+        flex: 0 0 30%
+    }
+    .col-md-6.col-sm-12.post-right-panels {
+        margin-bottom: 20px
+    }
+    .col-md-6.col-sm-12.ads-post-first-section,
+    .col-md-6.col-sm-12.post-right-panels {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+    .gallery-action-btn {
+        padding: 12px 15px;
+        font-size: 16px
+    }
+    .free-ad-white-bg h4 {
+        font-size: 15px
+    }
+    .free-add-content p,
+    .free-ad-category li {
+        font-size: 13px
+    }
+    .free-action li a {
+        padding: 8px
+    }
+    .free-ad-white-bg h3 {
+        font-size: 16px
+    }
+    .free-ad-white-bg {
+        padding: 25px
+    }
+    .free-action {
+        margin: 0;
+        display: block
+    }
+    .ad-edit-ection .free-action {
+        margin: 0 0 22px;
+        display: flex
+    }
+    .free-ad-title-row img {
+        height: 24px
+    }
+    .free-ad-title-row span,
+    .order-panel,
+    .order-panel span {
+        font-size: 14px
+    }
+    .total-prices {
+        font-size: 20px;
+        padding: 25px 0
+    }
+    .cls-right {
+        height: auto;
+        min-height: 100px;
+        padding: 15px
+    }
+    .apply-btn {
+        height: 38px
+    }
+    .pink-g-btn.proceed-to-pay-btn {
+        padding: 22px 44px;
+        font-size: 16px
+    }
+    .back-to-prev img {
+        height: 68px
+    }
+    .email-help-box h4 {
+        font-size: 18px
+    }
+    .email-help-box p,
+    .cls-right p {
+        font-size: 13px
+    }
+    .cls-right p a {
+        font-size: 11px
+    }
+    .cls-left {
+        padding: 24px
+    }
+    .email-help-box {
+        padding: 20px
+    }
+    .email-help-box p a {
+        padding: 3px 9px 6px
+    }
+    .post-ads-section {
+        padding: 2.5rem 0 1rem
+    }
+    .thank-you-section {
+        padding: 70px
+    }
+    .thank-you-section h1 {
+        font-size: 30px
+    }
+    .thank-you-section p {
+        font-size: 14px
+    }
+    .thank-you-section h4 {
+        font-size: 18px
+    }
+    .password-panel h3 {
+        font-size: 16px;
+        margin-bottom: 10px
+    }
+    .password-email-captcha .form-group {
+        width: 100%
+    }
+    .services-content .credits-items .credit-plan,
+    .services-content .credit-title {
+        font-size: 13px
+    }
+    .schedule-listing li {
+        width: 31%
+    }
+    .dark-night-icons,
+    .pink-night-icons {
+        width: auto;
+        height: 20px !important
+    }
+    .claim-logo img {
+        height: 35px
+    }
+    .claim-logo {
+        padding: 22px 0
+    }
+    .blue-light-bg {
+        padding: 25px
+    }
+    .tab-heading-items h5 {
+        font-size: 15px
+    }
+    .plan-listing-with-img h6 {
+        font-size: 12px
+    }
+    .credit-discount {
+        padding: 8px 18px
+    }
+    .creadit-package-content h4,
+    .tp-prem-right-img .product-tabs-heading,
+    .call-escort-panel h5,
+    .vip-with-title h5,
+    .plan-listing-with-img h3 {
+        font-size: 16px
+    }
+    .whatsapp-call-action span img,
+    .vip-with-title img,
+    .plan-listing-with-img img {
+        height: 45px
+    }
+    .claim-content-panel {
+        padding: 30px 15px
+    }
+    .premium-four-listing li {
+        font-size: 12px;
+        line-height: 15px
+    }
+    .whatsapp-call-action span {
+        margin: 0 35px 25px
+    }
+    .creadit-package-content p {
+        font-size: 13px
+    }
+    .buy-credit-btn-row .pink-g-btn {
+        width: 145px;
+        padding: 12px
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine2 {
+        margin-top: -2px;
+        margin-bottom: auto
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine1 {
+        margin-bottom: auto;
+        margin-top: 0
+    }
+    .front-header.postad-page.tablet-header .navbar-brand {
+        margin-top: 0
+    }
+    .front-header.postad-page.tablet-header .h-100c,
+    .front-header.postad-page .container-front {
+        height: 100%
+    }
+    .front-header.tablet-header .navbar-brand {
+        padding: 0 !important;
+        margin-top: 7px
+    }
+    .after-fixed-action-tabs {
+        display: none
+    }
+    .front-header.tablet-header .after-fixed-action-tabs {
+        display: block;
+        position: relative
+    }
+    .fixed-blue-box .pink-g-btn.post-add {
+        width: 100%;
+        border: 1px solid #fea3e9
+    }
+    .page404-wrapper {
+        padding: 40px 0 0
+    }
+    .page404-wrapper .img404 {
+        height: 183px
+    }
+    .page404-wrapper .page404 h1,
+    .page404-wrapper .page404 h2 {
+        font-size: 34px
+    }
+    .page404-home-button a {
+        padding: 12px 18px
+    }
+    .container.container-front.logingpd {
+        height: auto
+    }
+    .repeat-credit-items .buy-credit-btn-row .pink-g-btn {
+        width: 100%;
+        margin-bottom: 0
+    }
+    .myadd-tabs li a {
+        padding: 8px 12px
+    }
+    .free-ad-title-row h2 {
+        font-size: 14px
+    }
+    .profile-panel {
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 230px;
+        height: auto
+    }
+    .inntophead {
+        margin-bottom: 144px
+    }
+    .my-navbar .collapse #main-nave li.loginuserdas {
+        margin: 0
+    }
+    #main-nave li .dropdown-menu-dashboard a {
+        color: #c11768;
+        padding: 8px 10px
+    }
+    .dropdown-menu-dashboard.open {
+        right: -15px;
+        left: auto;
+        margin-top: 15px
+    }
+    .tab-heading-items,
+    .panel-collapse {
+        padding: 8px 10px 10px
+    }
+    .tab-content.myadd-tabs-content {
+        padding: 12px
+    }
+    #purchaseRecord .free-ad-white-bg {
+        padding: 4px
+    }
+    .payment-options {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%
+    }
+    label.img-btn {
+        width: 140px
+    }
+}

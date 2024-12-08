@@ -1,0 +1,719 @@
+@media only screen and (min-width:375px) and (max-width:812px) and (orientation:landscape) {
+    .fixed-hanger-btn .spce span {
+        height: 2px;
+        margin-bottom: 8px
+    }
+    .front-header.fixed-header {
+        height: 60px
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine2 {
+        margin-top: -2px;
+        margin-bottom: auto
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine1 {
+        margin-bottom: auto;
+        margin-top: 0
+    }
+    .sidebar-menu li a i {
+        display: none
+    }
+    .container-front,
+    .container.container-front {
+        max-width: 96%
+    }
+    .front-header .container-front {
+        padding: 0 0 0 15px
+    }
+    .logo {
+        height: 30px;
+        width: 220px
+    }
+    .discounted-span {
+        font-size: 17px
+    }
+    .credit-discount {
+        padding: 8px 12px
+    }
+    .buy-credit-btn-row .pink-g-btn {
+        width: 145px;
+        padding: 12px
+    }
+    .claim-logo img {
+        height: 35px
+    }
+    .plan-listing-with-img img,
+    .vip-with-title img,
+    .whatsapp-call-action span img {
+        height: 60px
+    }
+    .call-escort-panel h5,
+    .creadit-package-content h4,
+    .plan-listing-with-img h3,
+    .tab-heading-items h5,
+    .tp-prem-right-img .product-tabs-heading,
+    .vip-with-title h5 {
+        font-size: 14px
+    }
+    .services-items {
+        width: 50%
+    }
+    .schedule-listing li {
+        width: 31%
+    }
+    .dark-night-icons,
+    .pink-night-icons {
+        height: auto !important
+    }
+    .chnage-password-bg {
+        padding: 30px 30px 0;
+        border-radius: 8px
+    }
+    .contineu-btn-col .pink-g-btn {
+        padding: 16px
+    }
+    .chnage-password-bg .my-search-form,
+    .password-panel ul {
+        display: block
+    }
+    .password-panel h3 {
+        font-size: 14px;
+        margin-bottom: 14px
+    }
+    .password-panel ul li {
+        margin-right: 0
+    }
+    .password-panel p {
+        font-size: 13px
+    }
+    .post-ads-section {
+        padding: 15px 0 1rem
+    }
+    .thank-you-section {
+        padding: 45px
+    }
+    .thank-you-section h1 {
+        font-size: 24px
+    }
+    .after-signup h4 {
+        font-size: 18px
+    }
+    .cls-right {
+        height: 98px;
+        padding: 16px
+    }
+    .gallery-action-btn {
+        padding: 13px 15px;
+        font-size: 15px
+    }
+    .free-ad-white-bg,
+    .free-ad-white-bg-first {
+        padding: 25px
+    }
+    .free-ad-white-bg h3 {
+        font-size: 16px
+    }
+    .free-action {
+        margin: 0;
+        display: block
+    }
+    .free-action li {
+        margin: 8px 0
+    }
+    .free-action li a {
+        font-size: 12px;
+        padding: 7px
+    }
+    .free-ad-category li {
+        margin-right: 5px;
+        padding: 7px 13px;
+        font-size: 11px !important;
+        margin-bottom: 4px
+    }
+    .col-md-6.col-sm-12.ads-post-first-section,
+    .col-md-6.col-sm-12.post-right-panels {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%
+    }
+    .col-md-2.whatCol {
+        max-width: 30%;
+        -ms-flex: 0 0 30%;
+        flex: 0 0 30%
+    }
+    .postaddetails-form {
+        margin-top: 20px
+    }
+    .pink-g-btn.Continue-btns {
+        line-height: 85px;
+        padding: 0 15px;
+        height: 85px;
+        margin: 0
+    }
+    .thank-you-section {
+        margin-top: 25px
+    }
+    .payment-details-table {
+        overflow-y: auto
+    }
+}
+
+@media screen and (max-width:740px) {
+    h1.main-title.page {
+        font-size: 26px
+    }
+    .gonow-row {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+        bottom: 0;
+        margin: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        background: #fff;
+        padding: 10px 0
+    }
+    .login-left-panle {
+        width: 100%;
+        padding: 0
+    }
+    .pop18footer {
+        padding-bottom: 30px
+    }
+    .popup-body-content ul {
+        order: 3;
+        -ms-flex-order: 3
+    }
+    .pera-none {
+        order: 1;
+        -ms-flex-order: 1
+    }
+    .padding18popup .popup-btn-row {
+        order: 4
+    }
+    .padding18popup {
+        flex-direction: column
+    }
+    .pera-none p {
+        margin-bottom: 15px
+    }
+    .common-popup .modal-header span {
+        font-size: 16px
+    }
+    .popup-body-content ul {
+        display: none
+    }
+    #read-more-btn {
+        display: block;
+        order: 2;
+        -ms-flex-order: 2;
+        width: 110px;
+        margin-bottom: 0
+    }
+    .payment-form .my-search-form {
+        display: block
+    }
+    .fixed-blue-box {
+        position: fixed
+    }
+    .front-header.tablet-header {
+        padding: 0
+    }
+    .mymobile-body {
+        padding-top: 65px
+    }
+    .fixed-blue-box {
+        top: 65px
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine2 {
+        margin-top: 0
+    }
+    .fixed-hanger-btn.hide-one-span .sp-liine1 {
+        margin-top: -8px
+    }
+    .fixed-blue-box .post-add {
+        font-size: 16px;
+        height: 50px
+    }
+    .item-title a {
+        font-size: 14px
+    }
+    .cat-items span,
+    .edit-delete-btn a,
+    .edit-delete-btn a span,
+    .email-publish,
+    .email-publish span {
+        font-size: 11px
+    }
+    .login-panel {
+        margin-top: 0
+    }
+}
+
+@media screen and (max-width:667px) {
+    .common-popup .modal-header .close {
+        width: 70px;
+        height: 70px
+    }
+    .pink-g-btn.buy-more-btn.showOnMobile {
+        margin-top: 15px;
+        width: 100%;
+        text-align: center;
+        display: block
+    }
+    .mypayment-table tbody tr:first-child td:last-child {
+        display: none
+    }
+    .account-panel img {
+        height: 70px
+    }
+    .popup-body-content {
+        padding: 30px
+    }
+    .zip-area-row .col-md-3 {
+        width: 32%
+    }
+    .pink-g-btn.Continue-btns {
+        line-height: 60px;
+        height: 60px;
+        width: 100%;
+        padding: 0 !important;
+        margin-top: 30px
+    }
+    .col-md-2.whatCol {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%
+    }
+    .postaddetails {
+        font-size: 17px;
+        margin-bottom: 12px
+    }
+    .up-bottom-content h5,
+    .up-bottom-content h6,
+    .up-top-content h6 {
+        font-size: 13px
+    }
+    .up-top-content h4,
+    .up-top-content span {
+        font-size: 15px
+    }
+    .postaddetails-form,
+    .upload-img-row {
+        padding: 25px 15px;
+        margin-top: 15px
+    }
+    .img-upload-grid {
+        width: 50%;
+        height: 195px
+    }
+    .chnage-password-bg {
+        margin-top: 0
+    }
+    .services-items {
+        width: 100%
+    }
+    .schedule-listing li {
+        width: 48%
+    }
+    .schedule-time {
+        font-size: 11px;
+        margin-left: 6px;
+        margin-top: -2px
+    }
+    .d-flex.justify-content-between.align-items-center.mb-4.mobile-block,
+    .d-flex.premium-four-listing {
+        display: block !important
+    }
+    .rich-the-top {
+        right: -28px;
+        width: 35px
+    }
+    .whatsapp-call-action span {
+        margin: 0 35px 10px
+    }
+    .panel.panel-default:first-child .tab-heading-items {
+        padding-right: 30px
+    }
+    .creadit-package-content h4 {
+        font-size: 12px
+    }
+    .creadit-package-content p {
+        font-size: 11px;
+        line-height: 15px
+    }
+    .creadit-package-content {
+        margin-bottom: 16px
+    }
+    .creadit-package-items {
+        border-radius: 0;
+        border: 1px solid #ededf3
+    }
+    .tp-prem-right-img {
+        margin-left: 12px
+    }
+    .claim-logo img {
+        height: 25px
+    }
+    .blue-light-bg,
+    .claim-content-panel,
+    .pink-light-bg,
+    .top-plan-items {
+        padding: 0
+    }
+    .plan-listing-with-img img,
+    .vip-with-title img,
+    .whatsapp-call-action span img {
+        height: 50px
+    }
+    .hot-price-section {
+        width: 100%
+    }
+    .plan-listing-with-img {
+        width: 50%;
+        padding: 0 12px
+    }
+    .top-premium-with-star {
+        height: 75px
+    }
+    .hot-price {
+        top: 38px;
+        height: 55px
+    }
+    .hot-price-center h2 {
+        font-size: 18px
+    }
+    .hot-price-center {
+        padding: 30px 0 20px
+    }
+    .promote-youra-ads-panel {
+        padding: 0
+    }
+    .blue-g-btn.promote-btns,
+    .pink-g-btn.promote-btns {
+        margin: 30px 0;
+        width: auto
+    }
+    .plan-listing-with-img:last-child {
+        margin-bottom: 10px
+    }
+    .credit-tick {
+        width: 30px;
+        height: 30px;
+        line-height: 30px
+    }
+    .creadit-package-items {
+        background: #fff;
+        border: 1px solid #dddde3
+    }
+    .buy-credit-btn-row .pink-g-btn {
+        width: 50%;
+        padding: 12px
+    }
+    .credit-discount {
+        padding: 4px 12px;
+        border-radius: 4px;
+        width: 143px
+    }
+    .publish-btn {
+        padding: 18px 8px
+    }
+    .promote-btn {
+        padding: 18px 30px
+    }
+    .credit-title {
+        margin: 0
+    }
+}
+
+@media screen and (max-width:480px) {
+    .thank-you-section .img404 {
+        height: 40px;
+        margin-bottom: 15px
+    }
+    .thank-you-section .page404 h1,
+    .thank-you-section .page404 h2 {
+        font-size: 15px
+    }
+    .thank-you-section .page404 a,
+    .thank-you-section .page404 span {
+        font-size: 12px;
+        margin-top: 15px
+    }
+    .thank-you-section {
+        margin-bottom: 0
+    }
+    .gallery-action {
+        margin: 10px 0 15px
+    }
+    .gallery-action-btn {
+        padding: 12px 15px;
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+        margin-top: 10px
+    }
+    .pink-g-btn.proceed-to-pay-btn {
+        padding: 11px 15px;
+        font-size: 13px;
+        display: block;
+        letter-spacing: 0
+    }
+    .top-premium-table-img {
+        height: 20px
+    }
+    .free-action li a {
+        font-size: 12px
+    }
+    .free-ad-category li {
+        margin-right: 5px;
+        padding: 7px 13px;
+        font-size: 11px !important;
+        margin-bottom: 4px
+    }
+    .free-ad-title-row>span>i {
+        font-size: 20px
+    }
+    .free-ad-white-bg-first {
+        padding: 15px
+    }
+    .pink-g-btn.common-btn {
+        width: 100% !important
+    }
+    .free-ad-white-bg {
+        padding: 15px
+    }
+    .moreinfo-with-call {
+        margin-top: 18px
+    }
+    .order-panel img {
+        height: 24px
+    }
+    .cls-left {
+        display: none
+    }
+    .cls-right p,
+    .email-help-box p {
+        text-align: center
+    }
+    .back-to-prev img {
+        height: 40px
+    }
+    .pink-g-btn.proceed-to-pay-btn {
+        padding: 11px 15px;
+        font-size: 13px;
+        display: block
+    }
+    .email-help-box h4 {
+        font-size: 14px
+    }
+    .email-help-box p a {
+        font-size: 11px
+    }
+    .email-help-box {
+        margin-top: 40px
+    }
+    .order-panel {
+        margin-top: 10px
+    }
+    .coupon-group .form-group {
+        width: 100%
+    }
+    .apply-btn {
+        margin-left: 0
+    }
+    .coupon-panel h5 {
+        font-size: 15px
+    }
+    .free-ad-white-bg-first.p-30.d-flex.justify-content-between.align-items-center {
+        display: block !important;
+        padding: 15px !important
+    }
+    .coupon-panel .my-search-form .form-control {
+        width: 100%
+    }
+    .post-ads-section {
+        padding: 1rem 0
+    }
+    .thank-you-section {
+        padding: 30px 15px
+    }
+    .thank-you-section h1 {
+        font-size: 20px
+    }
+    .thank-you-section p {
+        font-size: 13px
+    }
+    .thank-you-section h4 {
+        font-size: 16px
+    }
+    .support-blue,
+    .support-pink {
+        padding: 3px 8px 5px;
+        font-size: 10px
+    }
+    .chnage-password-bg {
+        padding: 15px 15px 0;
+        border-radius: 8px
+    }
+    .chnage-password-bg .password-panel {
+        margin-bottom: 15px
+    }
+    .contineu-btn-col .pink-g-btn {
+        padding: 16px
+    }
+    .chnage-password-bg .my-search-form,
+    .password-panel ul {
+        display: block
+    }
+    .password-panel h3 {
+        font-size: 14px;
+        margin-bottom: 14px
+    }
+    .password-panel ul li {
+        margin-right: 0
+    }
+    .password-panel p {
+        font-size: 13px
+    }
+    .creadit-package-listing ul li:nth-last-child(-n+2) {
+        margin-top: 10px
+    }
+    .credit-discountp {
+        flex-direction: column
+    }
+    .discounted-text {
+        border-radius: 4px;
+        left: auto
+    }
+    .creadit-package-listing ul li {
+        width: 33.33%;
+        font-size: 13px
+    }
+    .filter-button span,
+    .unpublished {
+        font-size: 12px
+    }
+    .item-title a {
+        font-size: 12px;
+        line-height: 16px
+    }
+    .item-title {
+        margin-bottom: 3px
+    }
+    .item-card .item-image-top {
+        width: 80px;
+        min-width: 80px;
+        height: 100px;
+        min-height: 100px;
+        margin-right: 10px
+    }
+    .ads-my-row {
+        margin-top: 6px
+    }
+    .edit-delete-btn a i {
+        font-size: 12px
+    }
+    .cat-items span,
+    .edit-delete-btn a,
+    .edit-delete-btn a span,
+    .email-publish,
+    .email-publish span {
+        font-size: 11px;
+        margin-right: 2px
+    }
+    .cat-items span:after {
+        margin-left: 2px
+    }
+    .edit-delete-btn.d-flex {
+        justify-content: space-between
+    }
+    .broceed-to-pay-btn {
+        width: 100%;
+        text-align: center
+    }
+    .edit-delete-btn.d-flex a span {
+        color: #c11768 !important
+    }
+    .adsproceed-topay {
+        margin-top: 12px
+    }
+    .edit-delete-btn {
+        margin-top: 6px
+    }
+    .item-card {
+        margin: 20px auto;
+        padding: 15px 0 30px;
+        border-radius: 0;
+        border: 0 solid #c3c3c3;
+        border-bottom: 1px solid #c3c3c3
+    }
+    .myadd-tabs li {
+        margin-right: 6px
+    }
+    .myadd-tabs li a span {
+        font-size: 12px
+    }
+    .ativeads-cunt {
+        position: absolute;
+        top: -43px;
+        background: #dee2ee;
+        right: 0;
+        min-width: 25px;
+        height: 25px;
+        line-height: 25px
+    }
+    .total-ads {
+        border: 2px solid #eedde5
+    }
+    .credit-coins ul li:nth-child(-n+2) {
+        width: 50%;
+        padding: 0
+    }
+    .credit-coins ul li:last-child {
+        width: 100%
+    }
+    .credit-coins .blue-g-btn {
+        width: 100%;
+        margin-top: 20px;
+        text-transform: uppercase
+    }
+    .ads-grapsh-panel ul {
+        padding: 30px 20px
+    }
+    .col-md-8.ds-content-collum {
+        -ms-flex: 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+    .de-profile {
+        margin-bottom: 25px
+    }
+    .de-profile p {
+        font-size: 13px;
+        line-height: 16px;
+        margin-bottom: 14px
+    }
+    .profile-top-de {
+        padding: 45px 30px;
+        position: absolute
+    }
+    .profile-top-de a,
+    .profile-top-de h4 {
+        color: #fff !important
+    }
+    .col-md-4.profile-collum {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+    .sidebar-menu li {
+        width: calc(100% - 0px);
+        margin: 2px 0
+    }
+    p {
+        font-size: 13px
+    }
+    .password-panel .password-email-captcha {
+        display: block
+    }
+}
